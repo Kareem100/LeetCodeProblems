@@ -1,5 +1,5 @@
 # LeetCodeProblems
-Practicing the Problem Solving Skills Using the Problems offered by LeetCode Platform.
+Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Platform.
 
 ## Algorithms
 
