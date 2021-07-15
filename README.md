@@ -13,3 +13,4 @@ Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Pla
 #### DAY 2
 1. [Valid Parentheses](Day%202/Valid%20Parentheses.cpp)
 2. [Merge Two Sorted Lists](Day%202/Merge%20Two%20Sorted%20Lists.cpp)
+3. [Remove Duplicates from Sorted Array](Day%202/Remove%20Duplicates%20from%20Sorted%20Array.cpp)
