@@ -4,6 +4,7 @@ Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Pla
 ## Algorithms
 
 #### DAY 1
+`Math`
 1. [Two Sum](Day%201/Two%20Sum.cpp)
 2. [Reversed Integer](Day%201/Reverse%20Integer.cpp)
 3. [Palindrome Number](Day%201/Palindrome%20Number.cpp)
@@ -11,6 +12,7 @@ Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Pla
 5. [Longest Common Prefix](Day%201/Longest%20Common%20Prefix.cpp)
 
 #### DAY 2
+`Math`
 1. [Valid Parentheses](Day%202/Valid%20Parentheses.cpp)
 2. [Merge Two Sorted Lists](Day%202/Merge%20Two%20Sorted%20Lists.cpp)
 3. [Remove Duplicates from Sorted Array](Day%202/Remove%20Duplicates%20from%20Sorted%20Array.cpp)
@@ -18,4 +20,5 @@ Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Pla
 5. [Implement strStr](Day%202/Implement%20strStr.cpp)
 
 #### DAY 3
+`Binary Search`
 1. [Search Insert Position](Day%203/Search%20Insert%20Position.cpp)
