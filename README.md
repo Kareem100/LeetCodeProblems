@@ -16,3 +16,6 @@ Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Pla
 3. [Remove Duplicates from Sorted Array](Day%202/Remove%20Duplicates%20from%20Sorted%20Array.cpp)
 4. [Remove Element](Day%202/Remove%20Element.cpp)
 5. [Implement strStr](Day%202/Implement%20strStr.cpp)
+
+#### DAY 3
+1. [Search Insert Position](Day%203/Search%20Insert%20Position.cpp)
