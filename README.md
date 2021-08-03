@@ -22,3 +22,4 @@ Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Pla
 #### DAY 3
 `Binary Search`
 1. [Search Insert Position](Day%203/Search%20Insert%20Position.cpp)
+2. [Length of Last Word](Day%203/Length%20of%20Last%20Word.cpp)
