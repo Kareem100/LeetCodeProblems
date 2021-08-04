@@ -20,6 +20,8 @@ Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Pla
 5. [Implement strStr](Day%202/Implement%20strStr.cpp)
 
 #### DAY 3
-`Binary Search`
+`Binary Search` `Recursion`
 1. [Search Insert Position](Day%203/Search%20Insert%20Position.cpp)
 2. [Length of Last Word](Day%203/Length%20of%20Last%20Word.cpp)
+3. [Merge Sorted Array](Day%203/Merge%20Sorted%20Array.cpp)
+4. [Climbing Stairs](Day%203/Climbing%20Stairs.cpp)
