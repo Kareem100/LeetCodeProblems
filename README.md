@@ -38,3 +38,4 @@ Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Pla
 #### DAY 5
 `Dynamic Programming`
 1. [Stone Game](Day%205/Stone%20Game.cpp)
+2. [Subrectangle Queries](Day%205/Subrectangle%20Queries.cpp)
