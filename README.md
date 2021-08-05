@@ -33,3 +33,7 @@ Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Pla
 2. [Remove Duplicates from Sorted List](Day%204/Remove%20Duplicates%20from%20Sorted%20List.cpp)
 3. [Maximum Subarray](Day%204/Maximum%20Subarray.cpp)
 4. [Binary Tree Inorder Traversal](Day%204/Binary%20Tree%20Inorder%20Traversal.cpp)
+
+#### DAY 5
+`Dynamic Programming`
+1. [Stone Game](Day%205/Stone%20Game.cpp)
