@@ -9,8 +9,7 @@ Description:    Alex and Lee play a game with piles of stones.
                 Alex and Lee take turns, with Alex starting first.  
                 Each turn, a player takes the entire pile of stones from either the beginning or the end of the row.
                 This continues until there are no more piles left, at which point the person with the most stones wins.
-
-Assuming Alex and Lee play optimally, return True if and only if Alex wins the game.
+                Assuming Alex and Lee play optimally, return True if and only if Alex wins the game.
 Difficulty: Medium
 Language: C++
 Category: Algorithms
