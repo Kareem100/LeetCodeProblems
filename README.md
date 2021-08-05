@@ -36,6 +36,7 @@ Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Pla
 5. [Symmetric Tree](Day%204/Symmetric%20Tree.cpp)
 
 #### DAY 5
-`Dynamic Programming`
+`Dynamic Programming` `Math`
 1. [Stone Game](Day%205/Stone%20Game.cpp)
 2. [Subrectangle Queries](Day%205/Subrectangle%20Queries.cpp)
+3. [Partitioning Into Minimum Number Of Deci-Binary Numbers](Day%205/Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)
