@@ -1,6 +1,9 @@
 # LeetCodeProblems
 Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Platform.
-
+```bash
+From DAY 1 to DAY 4 (Problems Difficulty is EASY)
+FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
+```
 ## Algorithms
 
 #### DAY 1
