@@ -43,3 +43,5 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 1. [Stone Game](Day%205/Stone%20Game.cpp)
 2. [Subrectangle Queries](Day%205/Subrectangle%20Queries.cpp)
 3. [Partitioning Into Minimum Number Of Deci-Binary Numbers](Day%205/Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)
+4. [Queries on Number of Points Inside a Circle](Day%205/Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.cpp)
+
