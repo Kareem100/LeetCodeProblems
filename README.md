@@ -1,9 +1,12 @@
 # LeetCodeProblems
 Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Platform.
-```bash
+
 From DAY 1 to DAY 4 (Problems Difficulty is EASY)
+:---------------------------------------------:
+
 FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
-```
+:---------------------------------------------:
+
 ## Algorithms
 
 #### DAY 1
@@ -45,3 +48,8 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 3. [Partitioning Into Minimum Number Of Deci-Binary Numbers](Day%205/Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)
 4. [Queries on Number of Points Inside a Circle](Day%205/Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.cpp)
 5. [Minimum Number of Operations to Move All Balls to Each Box](Day%205/Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.cpp)
+
+#### DAY 6
+`Math`
+1. [Add Two Numbers](Day%206/Add%20Two%20Numbers.cpp)
+2. [Integer to Roman](Day%206/Integer%20to%20Roman.cpp)
