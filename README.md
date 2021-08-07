@@ -50,6 +50,7 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 5. [Minimum Number of Operations to Move All Balls to Each Box](Day%205/Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.cpp)
 
 #### DAY 6
-`Math`
+`Math` `Binary Search`
 1. [Add Two Numbers](Day%206/Add%20Two%20Numbers.cpp)
 2. [Integer to Roman](Day%206/Integer%20to%20Roman.cpp)
+3. [Find First and Last Position of Element in Sorted Array](Day%206/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)
