@@ -56,3 +56,7 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 3. [Find First and Last Position of Element in Sorted Array](Day%206/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)
 4. [Search in Rotated Sorted Array](Day%206/Search%20in%20Rotated%20Sorted%20Array.cpp)
 5. [Sort an Array](Day%206/Sort%20an%20Array.cpp)
+
+#### DAY 7
+`Two Pointers`
+1. [Minimize Maximum Pair Sum in Array](Day%207/Minimize%20Maximum%20Pair%20Sum%20in%20Array.cpp)
