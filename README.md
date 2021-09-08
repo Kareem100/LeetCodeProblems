@@ -59,4 +59,8 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 
 #### DAY 7
 `Two Pointers`
-1. [Minimize Maximum Pair Sum in Array](Day%207/Minimize%20Maximum%20Pair%20Sum%20in%20Array.cpp)
+[Minimize Maximum Pair Sum in Array](Day%207/Minimize%20Maximum%20Pair%20Sum%20in%20Array.cpp)
+
+#### DAY 8
+`Binary Tree` `DFS`
+[Deepest Leaves Sum](Day%208/Deepest%20Leaves%20Sum.cpp)
