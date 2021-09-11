@@ -68,3 +68,7 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 #### DAY 9
 `Binary Tree` `DFS`
 [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](Day%209/Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.cpp)
+
+#### DAY 10
+`Greedy` `Matrix`
+[Max Increase to Keep City Skyline](Day%2010/Max%20Increase%20to%20Keep%20City%20Skyline.cpp)
