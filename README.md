@@ -75,4 +75,4 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 
 #### DAY 11
 `Map`
-[Group the People Given the Group Size They Belong To][Day%2011/Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.cpp]
+[Group the People Given the Group Size They Belong To](Day%2011/Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.cpp)
