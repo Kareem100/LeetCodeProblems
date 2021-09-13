@@ -76,3 +76,7 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 #### DAY 11
 `Map`
 [Group the People Given the Group Size They Belong To](2.%20Second%2010%20Days/Day%2011/Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.cpp)
+
+#### DAY 12
+`Binary Tree` `DFS`
+[Sum of Nodes with Even-Valued Grandparent](2.%20Second%2010%20Days/Day%2012/Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.cpp)
