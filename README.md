@@ -81,6 +81,6 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 `Binary Tree` `DFS`
 [Sum of Nodes with Even-Valued Grandparent](2.%20Second%2010%20Days/Day%2012/Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.cpp)
 
-#### DAY 12
+#### DAY 13
 `Sorting`
 [Widest Vertical Area Between Two Points Containing No Points](2.%20Second%2010%20Days/Day%2013/Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.cpp)
