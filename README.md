@@ -84,3 +84,8 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 #### DAY 13
 `Sorting`
 [Widest Vertical Area Between Two Points Containing No Points](2.%20Second%2010%20Days/Day%2013/Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.cpp)
+
+#### DAY 14
+`Binary Search Tree` `DFS`
+[Binary Search Tree to Greater Sum Tree](2.%20Second%2010%20Days/Day%2014/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.cpp)
+
