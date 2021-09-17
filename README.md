@@ -92,3 +92,8 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 #### DAY 15
 `Map` `Hash Function`
 [Encode and Decode TinyURL](2.%20Second%2010%20Days/Day%2015/Encode%20and%20Decode%20TinyURL.cpp)
+
+
+#### DAY 16
+`Binary Tree` `Divide and Conquer`
+[Maximum Binary Tree](2.%20Second%2010%20Days/Day%2016/Maximum%20Binary%20Tree.cpp)
