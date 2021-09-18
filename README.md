@@ -97,3 +97,7 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 #### DAY 16
 `Binary Tree` `Divide and Conquer`
 [Maximum Binary Tree](2.%20Second%2010%20Days/Day%2016/Maximum%20Binary%20Tree.cpp)
+
+#### DAY 17
+`vectors` `simulation`
+[Queries on a Permutation With Key](2.%20Second%2010%20Days/Day%2017/Queries%20on%20a%20Permutation%20With%20Key.cpp)
