@@ -101,3 +101,8 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 #### DAY 17
 `vectors` `simulation`
 [Queries on a Permutation With Key](2.%20Second%2010%20Days/Day%2017/Queries%20on%20a%20Permutation%20With%20Key.cpp)
+
+#### DAY 18
+`Sorting` `Matrix`
+[Sort the Matrix Diagonally](2.%20Second%2010%20Days/Day%2018/Sort%20the%20Matrix%20Diagonally.cpp)
+
