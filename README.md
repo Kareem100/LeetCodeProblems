@@ -106,3 +106,6 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 `Sorting` `Matrix`
 [Sort the Matrix Diagonally](2.%20Second%2010%20Days/Day%2018/Sort%20the%20Matrix%20Diagonally.cpp)
 
+#### DAY 19
+`Math`
+[Minimum Operations to Make Array Equal](2.%20Second%2010%20Days/Day%2019/Minimum%20Operations%20to%20Make%20Array%20Equal.cpp)
