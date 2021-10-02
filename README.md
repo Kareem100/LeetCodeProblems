@@ -117,3 +117,7 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 #### DAY 21
 `Map` `Set`
 [Finding the Users Active Minutes](3.%20Third%2010%20Days/Day%2021/Finding%20the%20Users%20Active%20Minutes.cpp)
+
+#### DAY 22
+`BST` `DFS`
+[Construct Binary Search Tree from Preorder Traversal](3.%20Third%2010%20Days/Day%2022/Construct%20Binary%20Search%20Tre%20from%20Preorder%20Traversal.cpp)
