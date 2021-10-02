@@ -109,3 +109,7 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 #### DAY 19
 `Math`
 [Minimum Operations to Make Array Equal](2.%20Second%2010%20Days/Day%2019/Minimum%20Operations%20to%20Make%20Array%20Equal.cpp)
+
+#### DAY 20
+`Graph` `BFS`
+[All Paths From Source to Target](2.%20Second%2010%20Days/Day%2020/All%20Paths%20From%20Source%20to%20Target.cpp)
