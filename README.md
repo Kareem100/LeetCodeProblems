@@ -121,3 +121,7 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 #### DAY 22
 `BST` `DFS`
 [Construct Binary Search Tree from Preorder Traversal](3.%20Third%2010%20Days/Day%2022/Construct%20Binary%20Search%20Tre%20from%20Preorder%20Traversal.cpp)
+
+#### DAY 23
+`DP` `Memoization` `Binary Tree`
+[All Possible Full Binary Trees](3.%20Third%2010%20Days/Day%2023/All%20Possible%20Full%20Binary%20Trees.cpp)
