@@ -129,3 +129,7 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 #### DAY 24
 `BST` `DFS` `Sorting`
 [All Elements in Two Binary Search Trees](3.%20Third%2010%20Days/Day%2024/All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp)
+
+#### DAY 25
+`STLs` `Two Pointers` `Greedy`
+[Partition Labels](3.%20Third%2010%20Days/Day%2025/Partition%20Labels.cpp)
