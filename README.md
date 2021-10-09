@@ -144,3 +144,7 @@ FROM DAY 26 to DAY 30 (Problems Difficulty is `HARD`)
 #### DAY 27
 `Dynamic Programming` `Sorting`
 [Reducing Dishes](3.%20Third%2010%20Days/Day%2027/Reducing%20Dishes.cpp)
+
+#### DAY 28
+`String` `Binary Tree` `DFS`
+[Recover a Tree From Preorder Traversal](3.%20Third%2010%20Days/Day%2028/Recover%20a%20Tree%20From%20Preorder%20Traversal.cpp)
