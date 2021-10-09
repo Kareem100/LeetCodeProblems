@@ -133,3 +133,7 @@ FROM DAY 5 to DAY x (Problems Difficulty is MEDIUM)
 #### DAY 25
 `STLs` `Two Pointers` `Greedy`
 [Partition Labels](3.%20Third%2010%20Days/Day%2025/Partition%20Labels.cpp)
+
+#### DAY 26
+`Backtracking` `Matrix`
+[Unique Paths III](3.%20Third%2010%20Days/Day%2026/Unique%20Paths%20III.cpp)
