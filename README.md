@@ -140,3 +140,7 @@ FROM DAY 26 to DAY 30 (Problems Difficulty is `HARD`)
 #### DAY 26
 `Backtracking` `Matrix`
 [Unique Paths III](3.%20Third%2010%20Days/Day%2026/Unique%20Paths%20III.cpp)
+
+#### DAY 27
+`Dynamic Programming` `Sorting`
+[Reducing Dishes](3.%20Third%2010%20Days/Day%2027/Reducing%20Dishes.cpp)
