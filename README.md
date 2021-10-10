@@ -153,3 +153,6 @@ FROM DAY 26 to DAY 30 (Problems Difficulty is `HARD`)
 `String` `Backtracking` `Bitmask`
 [Maximum Score Words Formed by Letters](3.%20Third%2010%20Days/Day%2029/Maximum%20Score%20Words%20Formed%20by%20Letters.cpp)
 
+#### DAY 30
+`Memoized DP` `Bit Manipulation` `Matrix`
+[Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](3.%20Third%2010%20Days/Day%2030/Minimum%20Number%20of%20Flips%20to%20Convert%20Binary%20Matrix%20to%20Zero%20Matrix.cpp)
