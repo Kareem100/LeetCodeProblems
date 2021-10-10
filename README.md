@@ -1,5 +1,7 @@
 # LeetCodeProblems
-Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Platform.
+Practicing the Problem Solving Skills Using the Problems Offered by LeetCode Platform,</br>
+starting from September 2021 till October 2021 in continuous 30 days,</br>
+with a gradual difficulty in different techniques of problems.
 
 From DAY 1 to DAY 4 (Problems Difficulty is `EASY`)
 :---------------------------------------------:
@@ -9,6 +11,12 @@ FROM DAY 5 to DAY 25 (Problems Difficulty is `MEDIUM`)
 
 FROM DAY 26 to DAY 30 (Problems Difficulty is `HARD`)
 :---------------------------------------------:
+
+### Topics Covered
+`Math` `String` `Matrix` `STLs` `Binary Search` `Recuresion` `Backtracking` `Binary Tree` </br>`DP` `D&C` `Two Pointers` `DFS` `Greedy`  `Sorting` `BST` `Graph` `Memoization`  `Bitmask` `Bit Manipulation`
+
+### LeetCode Profile
+[Click Me](https://leetcode.com/Kareem100)
 
 ## Algorithms
 
