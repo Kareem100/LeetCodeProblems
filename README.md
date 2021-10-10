@@ -148,3 +148,8 @@ FROM DAY 26 to DAY 30 (Problems Difficulty is `HARD`)
 #### DAY 28
 `String` `Binary Tree` `DFS`
 [Recover a Tree From Preorder Traversal](3.%20Third%2010%20Days/Day%2028/Recover%20a%20Tree%20From%20Preorder%20Traversal.cpp)
+
+#### DAY 29
+`String` `Backtracking` `Bitmask`
+[Maximum Score Words Formed by Letters](3.%20Third%2010%20Days/Day%2029/Maximum%20Score%20Words%20Formed%20by%20Letters.cpp)
+
